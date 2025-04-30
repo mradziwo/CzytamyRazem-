@@ -21,7 +21,7 @@
     "@babel/plugin-transform-optional-chaining": "^7.24.0",
     "@babel/plugin-transform-private-methods": "^7.24.0",
     "@babel/plugin-transform-private-property-in-object": "^7.24.0",
-    "@eslint/config-array": "^1.0.0",
+    "@eslint/config-array": "^0.18.0",
     "eslint": "^9.0.0",
     "svgo": "^2.8.0"
   },
